@@ -19,7 +19,7 @@
 - Master professional-grade Cloud, Network, and Server architecture.
 - Integrate infrastructure knowledge with application development to deliver holistic solutions.
 - Enhance operational efficiency through cross-disciplinary technical skills.
-
+  
 # 🎓 Education / 学歴
 - 🎨 Art Club (6 years)
 - 🖌️ High School – Art Course
