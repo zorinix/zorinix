@@ -114,6 +114,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=zornix-proverili&style=flat-square&color=blue" alt="Visitor Count">
 
-<p>© 2026 zornix-proverili</p>
+<p>© 2026 zorinix</p>
 
 </div>
