@@ -1,8 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/zorinix.png" width="160" style="border-radius: 50%; border: 4px solid #3178C6;">
-
-<h1>zorinix</h1>
+<img src="./assets/images/zorinix_header.png" width="100%" alt="Header Image" style="border-radius: 8px; margin-bottom: 20px;">
 
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Cloud+and+Network+Specialist;Building+Technical+Foundations" alt="Typing Animation"></p>
 
