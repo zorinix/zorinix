@@ -114,4 +114,36 @@
 
 <p>© 2026 zorinix</p>
 
+```mermaid
+mindmap
+  root((Current
+    Projects))
+    AI & Machine
+      Learning
+        Agentic AI
+        Runtime
+        Audio &
+        Speech AI
+        Real-Time
+        Analytics
+        AI Image to
+        3D / AR
+        Pipelines
+    Web
+      Development
+        React Apps
+        Next.js Sites
+        UI/UX Design
+    Cybersecurity
+      Applied
+        Cryptography
+      Defensive
+        Recon & CTF
+      Threat
+        Analysis
+    System
+      Programming
+        Rust Tools
+        Infrastructure
+
 </div>
