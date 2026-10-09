@@ -105,14 +105,14 @@
 <h3>📊 GitHub Stats</h3>
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="400" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=zorinix&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=zorinix&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="400" /></td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=zornix-proverili&style=flat-square&color=blue" alt="Visitor Count">
+<img src="https://komarev.com/ghpvc/?username=zorinix&style=flat-square&color=blue" alt="Visitor Count">
 
 <p>© 2026 zorinix</p>
 
