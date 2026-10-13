@@ -1,166 +1,127 @@
-<!-- 言語選択ナビゲーション -->
-<div align="right">
-  <p>
-    <b>Language:</b>
-    <a href="./README.md">English (main)</a> |
-    <a href="./docs/README.ja.md">日本語</a> |
-    <a href="./docs/README.ko.md">한국어</a>
-  </p>
-</div>
+ <!-- Language navigation -->
+<p><sub>LANGUAGE　/　<a href="./README.md">English</a> · <a href="./docs/README.ja.md">日本語</a> · <a href="./docs/README.ko.md">한국어</a></sub></p>
 
-<!-- ヘッダー画像 -->
-<div align="center">
-  <img src="assets/images/zorinix_header.png" alt="zorinix Header" width="100%" />
-</div>
+<!-- Header -->
+<img src="assets/images/zorinix_header.png" alt="zorinix Header" width="100%">
 
-<!-- ページ間ナビゲーション（上部） -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="./README.md">Home</a></td>
-      <td align="center"><a href="./docs/profile.md">Profile</a></td>
-      <td align="center"><a href="./docs/concept.md">Concept</a></td>
-      <td align="center"><a href="./docs/services.md">Services</a></td>
-      <td align="center"><a href="./docs/portfolio.md">Portfolio</a></td>
-      <td align="center"><a href="./docs/contact.md">Contact</a></td>
-      <td align="center"><a href="./docs/kazuki.md">Kazuki</a></td>
-    </tr>
-  </table>
-</div>
+**INDEPENDENT IT PROJECT · JAPAN**
+
+[Home](./README.md) · [Profile](./docs/profile.md) · [Concept](./docs/concept.md) · [Services](./docs/services.md) · [Portfolio](./docs/portfolio.md) · [Contact](./docs/contact.md) · [Kazuki](./docs/kazuki.md)
 
 ---
 
-## About Me / イントロダクション
+## About
 
 はじめまして。ペンネーム **影島 零（カゲシマ レイ）** として活動しています。
 
-現在は学生として学びつつ、来年の新卒就職に向けた準備を進めながら、**20歳までに個人事業主として起業**することを目指して準備を進めています。
+zorinix（ゾリニクス）は、IT 技術を通じてアイデアを形にし、制作物や実績を積み重ねていく個人プロジェクトです。
 
-当事業 **「zorinix（ゾリニクス）」** は、間に誰も挟まず、私自身が責任を持ってすべての実務を徹底的にやり切る個人事業です。ぶれない一貫性と最高品質のクオリティを追求し、自身の実績・ポートフォリオとして社会に確かな形を遺していきます。
+現在は専門学校で Web デザイン・フロントエンド技術を学びながら、2027年の新卒就職と、20歳での個人事業主開業に向けて準備を進めています。
 
----
+企画から制作・開発まで、自分自身で考え、手を動かし、責任を持って取り組むことを基本方針としています。
 
-## Business Overview / 事業概要（創業準備中）
-
-現在、20歳での個人事業主開業に向けた準備を行っております。
+## Business Information
 
 | 項目 | 内容 |
-| :--- | :--- |
-| **屋号（事業名）** | zorinix（ゾリニクス） |
-| **代表者** | 影島 零（カゲシマ レイ）※ペンネーム |
-| **事業形態** | 個人事業主（創業準備中 / 20歳起業予定） |
-| **事業理念** | 「ITの本当のすがたを教え、一緒に考える仲間になる。」 |
-| **主要拠点** | 日本（オンライン全国対応） |
+|:---|:---|
+| 屋号 | **zorinix（ゾリニクス）** |
+| 代表者 | 影島 零（ペンネーム） |
+| 事業形態 | 個人事業主として開業準備中 |
+| 活動拠点 | 日本・オンライン |
+| 主な対象 | IT を学びたい人、個人事業主、起業準備中の人 |
+| 事業理念 | ITの本当のすがたを教え、一緒に考える仲間になる。 |
+| 事業方針 | 技術の理解・実践・成果物の制作を重視する |
+
+## Concept
+
+### ITの本当のすがたを教え、一緒に考える仲間になる。
+
+IT の世界には、学習方法、専門分野、仕事の実態、必要な費用など、始める前にはわかりにくいことが数多くあります。
+
+zorinix が目指すのは、単に知識を伝えることではなく、相手と同じ目線で課題を整理し、技術の仕組みや選択肢を理解するための手助けをすることです。
+
+- **Understand** — 技術や仕事の仕組みを理解する。
+- **Think** — 課題や選択肢を一緒に考える。
+- **Build** — アイデアを制作物やシステムとして形にする.
+- **Support** — IT に関する悩みや課題の解決を支援する。
+
+### Personal Philosophy
+
+> 自分一人で責任を背負いきり、自分の力で生きる形を遺す。
+
+自分の力で価値を生み出し、誰かの役に立つ成果を社会に残す。zorinix は、そのための技術・経験・実績を積み重ねる場所でもあります。
+
+## Services
+
+IT 技術を幅広く学び、実践しながら、以下の分野での制作・開発・支援を目指しています。
+
+| 分野 | 内容 |
+|:---|:---|
+| **Web Development** | Web サイト、Web アプリケーション、フロントエンド・バックエンド開発 |
+| **System Development** | プログラム、システム設計、データ処理 |
+| **Infrastructure & Network** | サーバー、ネットワーク、インフラ環境の構築・検証 |
+| **Technical Documentation** | 技術資料、操作マニュアル、ドキュメントの作成 |
+| **Automation** | スクリプト、定型作業の自動化、業務効率化 |
+| **AI & Language Design** | AI の活用、プロンプト設計、独自言語の設計検討 |
+| **IT Career Consultation** | IT 学習、分野選択、進路に関する個別相談 |
+
+### Service Formats
+
+- **受託制作・開発：** Web サイト、システム、技術資料などの制作。
+- **個別オンライン相談：** IT 学習や進路、技術選定についての相談。必要に応じて保護者同伴にも対応する想定。
+- **技術アドバイス：** 個人事業主や起業準備中の方に向けた技術選定・業務効率化の支援。
+
+※ 上記は事業として計画している対応分野を含みます。実際の受注可否、料金、納期、対応範囲は案件ごとに確認し、開業準備の進捗に応じて整備します。
+
+## Portfolio
+
+制作物や技術検証の成果は、ポートフォリオとして整理していきます。
+
+- **Web Projects** — Web サイト・アプリケーションの制作
+- **System Projects** — プログラム・システム開発の実践
+- **Infrastructure Projects** — サーバー・ネットワーク・開発環境の検証
+- **Technical Documents** — 技術資料・手順書・学習記録
+
+[ポートフォリオを見る →](./docs/portfolio.md)
+
+## Original Character — 日野原 一姫
+
+zorinix の世界観を彩るオリジナルキャラクター、**日野原 一姫（ヒノハラ カズキ）**。
+
+ドット絵による表情やバリエーションを制作しています。
+
+| Normal | Happy | Smug |
+|:---:|:---:|:---:|
+| <img src="assets/images/zorinix_normal.png" width="100" alt="Kazuki Normal"> | <img src="assets/images/zorinix_happy.png" width="100" alt="Kazuki Happy"> | <img src="assets/images/zorinix_smug.png" width="100" alt="Kazuki Smug"> |
+
+[キャラクター設定・画像一覧 →](./docs/kazuki.md)
+
+## Contact
+
+制作依頼、技術相談、IT 進路に関するお問い合わせ窓口です。
+
+- **GitHub Issues：** [質問・依頼の相談](../../issues)
+- **GitHub Discussions：** [意見交換・情報共有](../../discussions)
+- **X / SNS：** 準備中
+- **E-mail / お問い合わせフォーム：** 準備中
+
+お問い合わせの際は、目的・相談内容・希望する対応範囲を記載してください。
 
 ---
 
-## Concept / コンセプト
+**zorinix / Rei Kagesima**
 
-### 1. 表向きコンセプト（お客さん向け）
+一歩ずつ、確実に。自分の力で生きる形をこの場所に遺す。
 
-> [!NOTE]
-> **キャッチコピー：「ITの本当のすがたを教え、一緒に考える仲間になる。」**
+<sub>© 2026 zorinix. All rights reserved.</sub>
 
-高額な専門学校やスクールに行く前に、「ITってなんだろう？」「自分に向いているかな？」「本当にこの仕事をしたいのかな？」を確かめる場所です。
-難しい知識がなくても大丈夫です。子どもでも、大人でも、親御さんと一緒でも、同じ目線になって一緒に考えたり、少しずつ勉強しながら、ITの世界の本当のすがたを伝えます。一人で悩んでいる人や、これからITを目指す人の一番身近な「頼れる仲間」になりたいと思っています。
-*(※1回ごとのご相談に本気で責任を持つため、有料でお引き受けしています)*
+```text
+███████╗ ██████╗ ██████╗ ██╗███╗   ██╗██╗██╗  ██╗
+╚══███╔╝██╔═══██╗██╔══██╗██║████╗  ██║██║╚██╗██╔╝
+  ███╔╝ ██║   ██║██████╔╝██║██╔██╗ ██║██║ ╚███╔╝
+ ███╔╝  ██║   ██║██╔══██╗██║██║╚██╗██║██║ ██╔██╗
+███████╗╚██████╔╝██║  ██║██║██║ ╚████║██║██╔╝ ██╗
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
+```
 
-また、他社様からの実務資料の作成や、個人事業主様向けのWebサイト制作、起業のサポートなど、実際の制作や開発の依頼も直接受けています。
-
-### 2. 裏向きコンセプト（自身・zorinix内部向け）
-
-> [!IMPORTANT]
-> **内部スローガン：「自分一人で責任を背負いきり、自分の力で生きる形を遺す。」**
-
-* **お金を稼ぎ、生きる目的を見つける**: 自分の腕と力で稼ぎ、誰かに価値を与える側になる。
-* **何かを遺す**: 縁を切った元父親や、周囲の起業している知人に自分の成果を見せ、社会に確かな実績を刻む。
-* **人と関わる**: 知識がなくて不安な人や子ども・大人の支えとなり、直接誰かの力になることで生きる意味を見出す。
-
----
-
-## Services / 業務内容
-
-zorinixでは、低レイヤからWeb構築、AI技術、インフラ、進路相談まで幅広く対応します。
-
-1. **OS・低レイヤ・システム開発**
-2. **Web開発・フルスタックシステム構築**
-3. **多言語テクニカルドキュメント作成**
-4. **ネットワーク・インフラ構成**
-5. **データ構造・アルゴリズム・自動化処理**
-6. **AIプロンプトエンジニアリング・DSL（独自言語）設計**
-7. **IT進路・転職の個別リアル相談**（1:1 または 2:1［保護者同伴など］）
-
----
-
-## Service Delivery Models / サービス提供形態
-
-お客様のご要望・課題に合わせて、柔軟な形態でサポートいたします。
-
-* **1:1 または 2:1 個別オンライン相談**
-  * Web会議ツール（Google Meet / Zoom等）を活用した、丁寧な個別対面セッション。お子様＋保護者様でのご相談（2:1）にも完全対応。
-* **受託制作・受託開発**
-  * Webサイト制作、システム構築、実務資料作成など、要件定義から納品まで影島 零が直接一括で対応。
-* **技術顧問・アドバイザリーサポート**
-  * 個人事業主様や起業準備中の方へ向けた、IT技術選定や業務自動化の継続的サポート。
-
----
-
-## Original Character / 日野原 一姫 (ヒノハラ カズキ)
-
-zorinixの世界観を彩るオリジナルキャラクター **日野原 一姫（ヒノハラ カズキ）** です（妄想の彼女という設定です）。
-以下に代表的な3つの感情表現のドット絵を掲載しています。その他の豊富なバリエーションや全アセットは [`kazuki.md`](./docs/kazuki.md) をご覧ください。
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="assets/images/zorinix_normal.png" width="110"><br><sub>Normal</sub></td>
-      <td align="center"><img src="assets/images/zorinix_happy.png" width="110"><br><sub>Happy</sub></td>
-      <td align="center"><img src="assets/images/zorinix_smug.png" width="110"><br><sub>Smug</sub></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Contact / お問い合わせ
-
-ご相談、開発・制作のご依頼、IT進路に関するご質問などは、以下の窓口よりお気軽にご連絡ください。
-
-* **GitHub Issues**: 本リポジトリの [Issues](../../issues) または [Discussions](../../discussions)
-* **X (旧Twitter) / SNS**: officialアカウント（準備中）
-* **E-mail**: ご相談・ご依頼用フォーム（準備中）
-
----
-
-<!-- フッター -->
-<br>
-<hr>
-<div align="center">
-<pre>
-  ███████╗ ██████╗ ██████╗ ██╗███╗   ██╗██╗██╗  ██╗
-  ╚══███╔╝██╔═══██╗██╔══██╗██║████╗  ██║██║╚██╗██╔╝
-    ███╔╝ ██║   ██║██████╔╝██║██╔██╗ ██║██║ ╚███╔╝ 
-   ███╔╝  ██║   ██║██╔══██╗██║██║╚██╗██║██║ ██╔██╗ 
-  ███████╗╚██████╔╝██║  ██║██║██║ ╚████║██║██╔╝ ██╗
-  ╚══════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-</pre>
-
-<!-- ページ間ナビゲーション（下部） -->
-<table>
-  <tr>
-    <td align="center"><a href="./README.md">Home</a></td>
-    <td align="center"><a href="./docs/profile.md">Profile</a></td>
-    <td align="center"><a href="./docs/concept.md">Concept</a></td>
-    <td align="center"><a href="./docs/services.md">Services</a></td>
-    <td align="center"><a href="./docs/portfolio.md">Portfolio</a></td>
-    <td align="center"><a href="./docs/contact.md">Contact</a></td>
-    <td align="center"><a href="./docs/kazuki.md">Kazuki</a></td>
-  </tr>
-</table>
-
-<br>
-
-<p><b>zorinix / Rei Kagesima (ペンネーム)</b></p>
-<p><i>「一歩ずつ、確実に。自分の力で生きる形をこの場所に遺す。」</i></p>
-<p>© 2026 zorinix. All rights reserved.</p>
-</div>
+[Home](./README.md) · [Profile](./docs/profile.md) · [Concept](./docs/concept.md) · [Services](./docs/services.md) · [Portfolio](./docs/portfolio.md) · [Contact](./docs/contact.md) · [Kazuki](./docs/kazuki.md)
