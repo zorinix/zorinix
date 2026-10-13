@@ -11,11 +11,6 @@ Web Development · System Development · IT Infrastructure · Creative Work
 [Profile](./docs/profile.md) · [Concept](./docs/concept.md) · [Services](./docs/services.md) · [Portfolio](./docs/portfolio.md) · [Character](./docs/kazuki.md) · [Contact](./docs/contact.md)
 
 ---
-
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zornix-proverili&theme=github-dark&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
 ## About
 
 **Rei Kageshima (影島 零)**
